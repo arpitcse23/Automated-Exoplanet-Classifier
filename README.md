@@ -11,10 +11,10 @@ An advanced **machine learning + Streamlit web application** designed to automat
 ## 📸 Demo / Preview
 
 ### Home Page
-![Home](Screenshot 2026-04-01 003038.png)
+![Home](screenshot1.png)
 
 ### Analysis Output
-![Analysis](Screenshot 2026-04-01 004408.png)
+![Analysis](screenshot2.png)
 
 ---
 
